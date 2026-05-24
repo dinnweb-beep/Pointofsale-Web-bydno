@@ -1,0 +1,2 @@
+# Pointofsale-Web-bydno
+PointOfSale
